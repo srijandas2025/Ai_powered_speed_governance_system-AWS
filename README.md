@@ -152,3 +152,43 @@ More details are documented in `responsible-ai.md`.
 
 \## 📂 Repository Structure
 
+---
+
+## 📄 Documentation
+
+- `requirements.md` – Functional and non-functional requirements  
+- `design.md` – System design and architecture  
+- `responsible-ai.md` – Ethical AI considerations  
+
+---
+
+## 🌍 Alignment with AI for Bharat
+
+This project aligns with **AI for Bharat** by:
+- Addressing real-world Indian road safety challenges  
+- Using AI for public good and governance  
+- Promoting ethical, transparent, and responsible AI  
+- Leveraging AWS for scalable national-level solutions  
+
+---
+
+## 🚀 Future Scope
+
+- Integration with smart city infrastructure  
+- Real-time dashboards for traffic authorities  
+- Edge AI deployment for rural areas  
+- Predictive accident risk analysis  
+
+---
+
+## 👨‍💻 Author
+
+**Srijan Das**  
+Electronics & AI Enthusiast  
+Project developed for **AI for Bharat (AWS)** initiative.
+
+---
+
+## 📜 License
+
+This project is intended for educational, research, and governance innovation purposes.
