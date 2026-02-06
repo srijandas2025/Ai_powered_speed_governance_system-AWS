@@ -188,7 +188,3 @@ Electronics & AI Enthusiast
 Project developed for **AI for Bharat (AWS)** initiative.
 
 ---
-
-## 📜 License
-
-This project is intended for educational, research, and governance innovation purposes.
