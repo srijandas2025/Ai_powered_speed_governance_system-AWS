@@ -1,4 +1,4 @@
-\ AI-Powered Smart Speed Governance System (AWS)
+ AI-Powered Smart Speed Governance System (AWS)
 
 
 
@@ -12,7 +12,7 @@ This system leverages Artificial Intelligence and AWS cloud services to monitor 
 
 
 
-\ 🚦 Problem Statement
+ 🚦 Problem Statement
 
 
 
@@ -36,7 +36,7 @@ There is a need for a \*\*smart, AI-powered, and cloud-scalable speed governance
 
 
 
-\ 💡 Solution Overview
+ 💡 Solution Overview
 
 
 
@@ -58,7 +58,7 @@ The system is designed to assist traffic authorities by providing \*\*real-time 
 
 
 
-\ 🧠 Key Features
+🧠 Key Features
 
 
 
@@ -80,7 +80,7 @@ The system is designed to assist traffic authorities by providing \*\*real-time 
 
 
 
-\ 🏗️ System Architecture (High Level)
+ 🏗️ System Architecture (High Level)
 
 
 
@@ -104,7 +104,7 @@ The system is designed to assist traffic authorities by providing \*\*real-time 
 
 
 
-\ ☁️ AWS Services Used
+ ☁️ AWS Services Used
 
 
 
@@ -124,7 +124,7 @@ The system is designed to assist traffic authorities by providing \*\*real-time 
 
 
 
-\ 🔐 Responsible AI \& Ethics
+🔐 Responsible AI \& Ethics
 
 
 
@@ -150,7 +150,7 @@ More details are documented in `responsible-ai.md`.
 
 
 
-\ 📂 Repository Structure
+ 📂 Repository Structure
 
 ---
 
